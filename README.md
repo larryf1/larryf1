@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Larry B. Finkelstein
 
 **Technologist • Architect • Leader**  
-_Mount Laurel, NJ | larryf@cspcorp.com_
+_Mount Laurel, NJ | larryf1@gmail.com_
 
 ---
 
-With over **35 years** in information technology, I specialize in **application architecture, identity & access management (IAM)**, and enterprise software solutions. My professional journey spans CTO roles, business partnerships with industry titans, and hands-on leadership as President of [Creative Systems Programming Corporation](mailto:larryf@cspcorp.com).
+With over **36 years** in information technology, I specialize in **application architecture, identity & access management (IAM)**, and enterprise software solutions. My professional journey spans CTO roles, business partnerships with industry titans, and hands-on leadership as President of [Creative Systems Programming Corporation](mailto:larryf@cspcorp.com).
 
 ## 🛠️ Areas of Expertise
 
@@ -20,7 +20,26 @@ With over **35 years** in information technology, I specialize in **application 
 
 ## 💼 Recent Roles
 
-### Comcast (2016–Present) — _Scala Developer_
+### Comcast (2023–present) — _Software Engineering Manager_
+- Lead Mesh Cloud Software Development Team in building:
+
+### Comcast (2020–2023) — _Principal Software Engineer_
+- Lead Mesh Cloud Software Development Team in building:
+
+### Comcast (2019–2020) — _Principal Software Engineer_
+- Lead vSG Software Development Team in building:
+  * Business KPI 3
+  * Incident categorization and management
+  * vSG Mapping Service (defines relationships between vSG and CMTS)
+  * Big Red Button (manage costing devices in/out of data path)
+  * vSG Insights (telemetry data on subscriber quality of experience)
+
+
+### Comcast (2016–2019) — _Principal Engineer - Quality Assurance_
+- ODP
+- VSG
+  
+### Comcast (2014–2016) — _Scala Developer_
 - Developed AWS S3-compliant microservices to stream and transcode media to OpenStack object stores.
 - Leveraged: Scala, Play, Akka, Docker, Jenkins, Ansible, Gatling, HDFS.
 
